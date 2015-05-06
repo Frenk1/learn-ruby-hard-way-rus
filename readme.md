@@ -1,2 +1,3 @@
 # Перевод книги learn ruby hard way на русский язык
-[original learn ruby hard way](http://learnrubythehardway.org/book/index.html)
+В процессе перевода
+ссылка на оригинал — http://learnrubythehardway.org/book/index.html
