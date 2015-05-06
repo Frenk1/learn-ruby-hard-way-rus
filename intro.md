@@ -1,28 +1,29 @@
-# The Hard Way Is Easier
-With the help of this book, you will do the incredibly simple things that all programmers do to learn a programming language:
+(http://learnrubythehardway.org/book/intro.html)[http://learnrubythehardway.org/book/intro.html]
+# Трудный путь — проще
+С помощью этой книги вы сможете делать невероятно простые вещи, которые делают все остальные программисты изучая язык программирования:
 
-1. Go through each exercise.
-2. Type in each sample exactly.
-3. Make it run.
+1. Пройти каждое упражнение.
+2. Напечатать код из каждого упражнения.
+3. Выполнить код.
 
-That's it. This will be *very* difficult at first, but stick with it. If you go through this book, and do each exercise for one or two hours a night, you will have a good foundation for moving onto another book about Ruby to continue your studies. This book won't turn you into a programmer overnight, but it will get you started on the path to learning how to code.
+Вот и всё. Это может быть *очень* сложным по-началу, несмотря на это, придерживайся плана. Если ты прошелся по всей книге и выполнил каждое упражнение за один или два часа, у тебя есть хороший фундамент, чтобы приступить к следующией книге по Ruby для продолжения обучения. Эта книга не сделает из тебя программиста на ночь, однако, она может помочь встать на путь изучения программирования.
 
-This book's job is to teach you the three most essential skills that a beginning programmer needs to know: reading and writing, attention to detail, and spotting differences.
+Работы из этой книги научат тебя трем наиболее существенным навыками, которые необходимо знать каждому начинающему программисту: чтение и написание, внимание к деталям и находить различия.
 
-# Reading and Writing
-If you have a problem typing, you will have a problem learning to code, and especially if you have a problem typing the fairly odd characters in source code. Without this simple skill you will be unable to learn even the most basic things about how software works.
+# Чтение и написание
+Если у тебя проблемы с печатью, то у тебя проблемы с обучением программированию и особенно если у тебя проблемы с набором довольно странных символов в исходном коде. Без этого простого навыка ты не сможешь изучить даже самые основные вещи о том, как работает программное обеспечение.
 
-Typing the code samples and getting them to run will help you learn the names of the symbols, get familiar with typing them, and get you reading the language.
+Ввод примеров кода и их запуск поможет вам запомнить названия символов, ознакомиться с их вводом и научиться читать язык.
 
-# Attention to Detail
-The one skill that separates bad programmers from good programmers is attention to detail. In fact, it's what separates the good from the bad in any profession. You must pay attention to the tiniest details of your work or you will miss important elements of what you create. In programming, this is how you end up with bugs and difficult-to-use systems.
+# Внимание к детялям
+Навык, который отделяет плохого программиста от хорошего — это внимание к деталям. По факту, это отделяет плохого от хоршего в любой профессии. Вы должны уделять внимание мельчайшим деталям в своей работе или вы упустите важный элемент того, что создаете. В программировании это выражается в том, что конечный продукт выходит с багами и сложным для использования.
 
-By going through this book, and copying each example *exactly*, you will be training your brain to focus on the details of what you are doing, as you are doing it.
+По мере изучения книги и точного копирования каждого примера, вы будете тренировать свой мозг на фокусировании к детялям того, что вы делаете и как вы делаете это.
 
-# Spotting Differences
-A very important skill (that most programmers develop over time) is the ability to visually notice differences between things. An experienced programmer can take two pieces of code that are slightly different and immediately start pointing out the differences. Programmers have invented tools to make this even easier, but we won't be using any of these. You first have to train your brain the hard way, then use the tools.
+# Нахождение различий
+Очень важный навык (который у большинства программистов развивается со временем) — это способность визуально замечать различия между вещами. Опытный программист может взять два кусочка кода и сразу же определить в чем различие между ними. Программисты изобрели инструменты, чтобы делать это еще проще, но мы не будем использовать их. Сначала нужно тренировать ваш мозг трудным путем, только потом использовать инструменты.
 
-While you do these exercises, typing each one in, you will be making mistakes. It's inevitable; even seasoned programmers would make a few. Your job is to compare what you have written to what's required, and fix all the differences. By doing so, you will train yourself to notice mistakes, bugs, and other problems.
+Во время выполнения упражнений, набирая одно из них, вы совершите ошибку. Это неизбежно; даже опытные программисты совершают их. Ваша работа сравнить что вы написали с тем, что нужно написать и исправить различия. Во время этого вы тренируетесь замечать ошибки, баги и другие проблемы.
 
 # Do Not Copy-Paste
 You must *type* each of these exercises in, manually. If you copy and paste, you might as well not even do them. The point of these exercises is to train your hands, your brain, and your mind in how to read, write, and see code. If you copy-paste, you are cheating yourself out of the effectiveness of the lessons.
