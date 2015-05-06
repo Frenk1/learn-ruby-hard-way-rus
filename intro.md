@@ -25,11 +25,13 @@
 
 Во время выполнения упражнений, набирая одно из них, вы совершите ошибку. Это неизбежно; даже опытные программисты совершают их. Ваша работа сравнить что вы написали с тем, что нужно написать и исправить различия. Во время этого вы тренируетесь замечать ошибки, баги и другие проблемы.
 
-# Do Not Copy-Paste
-You must *type* each of these exercises in, manually. If you copy and paste, you might as well not even do them. The point of these exercises is to train your hands, your brain, and your mind in how to read, write, and see code. If you copy-paste, you are cheating yourself out of the effectiveness of the lessons.
+# Не используй функции буфера обмена "копировать-вставить"
+Вы должны вручную *написать* каждый из примеров. Если вы скопируете и вставите, то можете даже не пытаться выполнять этот код. Основное в этих упражнения — это тренировка ваших рук, вашего мозга и вашего понимания, как читать, писать и видеть код.
 
-# Using the Included Videos
-*Learn Ruby The Hard Way* has more than 5 hours of instructional videos to help you with the book. There is one video for each exercise where I either demonstrate the exercise, or give you tips for completing the exercise. The best way to use the videos is to attempt or complete the exercises without them first, then use the videos to review what you learned or if you are stuck. This will slowly wean you off of using videos to learn programming and build your skills at understanding code directly. Stick with it, and slowly you won't need the videos, or any videos to learn programming. You'll be able to just read for the information you need.
+# Смотри видео поставляющиеся с книгой
+*Изучение Ruby тяжелым путем* содержит более 5 часов видеоуроков для того, чтобы помочь в изучении книги. Для каждого занятия есть видео, где я либо демонстрирую занятие, либо даю вам советы для завершения упражнения.
+Лучший способ использовать видео — это попытаться сначала выполнить упражнение без помощи видео, затем использовать его для сравнения того, что выучили или если вы застряли и не можете пройти занятие.
+Это должно со временем отучить вас от использования видео для изучения программирования и построить ваши навыки так, чтобы код был понятен сразу. Придерживайтесь этого и со временем вам не понадобаится видео для изучения программирования. Вы будете способны читать нужную вам информацию.
 
 # A Note on Practice and Persistence
 While you are studying programming, I'm studying how to play guitar. I practice it every day for at least two hours a day. I play scales, chords, and arpeggios for an hour and then learn music theory, ear training, songs, and anything else I can. Some days I study guitar and music for eight hours because I feel like it and it's fun. To me repetitive practice is natural and just how to learn something. I know that to get good at anything you have to practice every day, even if I suck that day (which is often) or it's difficult. Keep trying and eventually it'll be easier and fun.
