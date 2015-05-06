@@ -1,4 +1,4 @@
-(http://learnrubythehardway.org/book/intro.html)[http://learnrubythehardway.org/book/intro.html]
+[http://learnrubythehardway.org/book/intro.html]
 # Трудный путь — проще
 С помощью этой книги вы сможете делать невероятно простые вещи, которые делают все остальные программисты изучая язык программирования:
 
