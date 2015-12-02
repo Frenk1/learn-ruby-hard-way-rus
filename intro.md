@@ -38,23 +38,21 @@
 
 Между написанием *Изучаем Python сложным путём* и *Изучаем Ruby сложным путем*, я открыл для себя рисование и живопись. Я просто без ума влюбился в визуальное искусство в возрасте 39 лет и тратил каждый день обучения, во многом, также, как и при обучении игре на гитаре, музыке и программированию. Я собрал книги с обучающим материалом, делал, что говорилось в книгах, рисовал каждый день и фокусировался на получении удовольствия от обучения. Я ни разу не "художник" или не хорош в этом, но сейчас я могу сказать, что умею рисовать. Схожим образом с моим обучением искусству, я учу тебя в этой книге. Если у тебя будут проблемы в небольших упражнениях и лекциях, то делай их каждый день и ты сможешь научиться практически всему. Если ты сосредоточен на неспешном продвижении и насдаждении процессом обучения, тогда это пойдет на пользу несмотря на то, как ты хорош в этом.
 
+Изучая эту книгу и продолжая программировать, помни, что сделать что-либо сложно только вначале. Возможно ты человек, который боится неудач, тогда ты сдашься при первой же сложной ситуации. Возможно ты никогда не учился самодисциплине, тогда ты не сможешь сделать что-либо настолько "скучное". Может ты говоришь, что ты одаренный, тогда ты не обратишь внимание на то, что может заставить выглядеть тебя глупым или неодаренным. А может ты соперничаешь и несправедливо сравниваешь себя с кем-то, кто программирует уже 20 лет.
 
-Изучая эту книгу и продолжая программировать, помни, что сделать что-либо сложно только вначале. Возможно ты человек, который боится неудач, тогда ты сдашься при первой же сложной ситуации. Возможно ты никогда не учился самодисциплине, тогда ты не сможешь сделать что-либо настолько "скучное". Может ты говоришь, что ты одаренный, тогда ты не обратишь внимание на то, что может заставить выглядеть тебя глупым или неодаренным. Maybe you are competitive and unfairly compare yourself to someone like me who's been programming for more than 20 years.
+Независимо от причин желания прекратить начинания, *продолжай*. Заставь себя. Если ты столкнулся с упражнением, которое не можешь сделать или с уроком, который не можешь понять, то отложи его на потом и вернись к нему позже. Просто продолжай, потому что в программировании могут происходить очень странные вещи. Сначала ты не поймешь ничего. Это будет странным, как изучение какого-нибудь человеческого языка. Ты будешь бороться со словами и не будешь знать значения символов и это будет очень сильно смущать. Затем, в один прекрасный день *БАБАХ* и твой мозг переклинит и на тебя внезапно снизойдет озарение. Если ты продолжишь тренировки и будешь пытаться понять задания, то ты поёмешь, как это работает. Ты можешь не быть гуру программирования, но по-крайней мере ты начнешь понимать, как работает программрование.
 
-Whatever your reason for wanting to quit, *keep at it*. Force yourself. If you run into a Study Drill you can't do, or a lesson you just do not understand, then skip it and come back to it later. Just keep going because with programming there's this very odd thing that happens. At first, you will not understand anything. It'll be weird, just like with learning any human language. You will struggle with words, and not know what symbols are what, and it'll all be very confusing. Then one day *BANG* your brain will snap and you will suddenly "get it." If you keep doing the exercises and keep trying to understand them, you will get it. You might not be a master coder, but you will at least understand how programming works.
+Если ты сдашься, то ты никогда не достигнешь цели. Ты обожгешься при встрече с первой странной штукой (которые вначале повсюду) и остановишься. Если ты продолжишь попытки, продолжишь набирать код, попытаешься понять его и изучить, то ты в конце-концов научишься. Если ты пройдешь через всю эту книгу и не поймёшь, как программировать, по-крайней мере, ты пытался. Ты можешь сказать, что старался изо всех сил и больше, но это не сработало, но по-крайней мере ты пытался. Ты можешь гордиться этим.
 
-If you give up, you won't ever reach this point. You will hit the first confusing thing (which is everything at first) and then stop. If you keep trying, keep typing it in, trying to understand it and reading about it, you will eventually get it. If you go through this whole book, and you still do not understand how to code, at least you gave it a shot. You can say you tried your best and a little more and it didn't work out, but at least you tried. You can be proud of that.
+# Предостережение для умников
+Иногда, люди, которые уже знают язык программрования, читют эту книгу и чувствуют, что я оскорбляю их. В этой книге нет ничего, что *предназначалось* к интерпретированию, как снисходительство, оскорбление или унижение. Просто я знаю о программировании больше, чем те, для кого предназначена эта книга. Если ты думаешь, что умнее меня, тогда ты не тот, для кого *предназначена* эта книга.
 
-# A Warning for the Smarties
-Sometimes people who already know a programming language will read this book and feel I'm insulting them. There is nothing in this book that is *intended* to be interpreted as condescending, insulting, or belittling. I simply know more about programming than my intended readers. If you think you are smarter than me, then you will feel talked down to and there's nothing I can do about that because you are not my *intended* reader.
+Если ты читаешь эту книгу и выходишь из себя на каждом третьем предложении от того, что чувсвтуешь, что я оскорбляю твой ум, тогда следующие три совета для тебя:
 
-If you are reading this book and flipping out at every third sentence because you feel I'm insulting your intelligence, then I have three points of advice for you:
+1. Прекрати читать мою книгу. Я написал её не для тебя. Я написал её для людей, кто еще ничего не знает о программировании.
+2. Очисти, прежде чем заполнить. Если ты хочешь тяжелого обучения от кого-либо умнее тебя.
+3. Иди изучать Lisp. Я слышал, что людям, которые знают всё, нравится Lisp.
 
-1. Stop reading my book. I didn't write it for you. I wrote it for people who don't already know everything.
-2. Empty before you fill. You will have a hard time learning from someone with more knowledge if you already know everything.
-3. Go learn Lisp. I hear people who know everything really like Lisp.
+Для остальных, кто здесь для того, чтобы учиться - просто читай всё, как-будто я улыбаюсь и весело подмигиваю.
 
-For everyone else who's here to learn, just read everything as if I'm smiling and I have a mischievous little twinkle in my eye.
-
-# Video
-Content currently unavailable. Please try again later. ([http://learnrubythehardway.org/book/intro.html](http://learnrubythehardway.org/book/intro.html))
+([http://learnrubythehardway.org/book/intro.html](http://learnrubythehardway.org/book/intro.html))
